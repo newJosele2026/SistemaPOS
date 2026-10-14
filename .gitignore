@@ -1,0 +1,17 @@
+# Ignorar archivos del sistema
+DS_Store
+
+# Ignorar la carpeta de dependencias de Node.js
+node_modules/
+
+# Ignorar archivos de configuración sensibles
+env
+
+# Ignorar todos los archivos de texto
+*.txt
+
+# Ignorar git
+*.git
+
+# Ignorar configuracion visual studio
+*.vs
