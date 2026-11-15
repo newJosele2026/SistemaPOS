@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace WFSistemaPOS
+namespace POSIxoraSoft
 {
     internal static class Program
     {
@@ -16,7 +16,7 @@ namespace WFSistemaPOS
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Login());
+            Application.Run(new HistorialVentas());
         }
     }
 }
