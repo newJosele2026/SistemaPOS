@@ -1,4 +1,4 @@
-﻿namespace WFSistemaPOS
+﻿namespace POSIxoraSoft
 {
     partial class MovimientoDelDia
     {

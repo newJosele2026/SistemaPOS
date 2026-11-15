@@ -1,4 +1,4 @@
-﻿namespace WFSistemaPOS
+﻿namespace POSIxoraSoft
 {
     partial class Login
     {
@@ -28,20 +28,10 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.SuspendLayout();
-            // 
-            // Login
-            // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
+            this.components = new System.ComponentModel.Container();
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(603, 262);
-            this.Cursor = System.Windows.Forms.Cursors.Default;
-            this.ForeColor = System.Drawing.Color.Black;
-            this.Name = "Login";
-            this.Text = "login";
-            this.Load += new System.EventHandler(this.Login_Load);
-            this.ResumeLayout(false);
-
+            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Text = "Form2";
         }
 
         #endregion

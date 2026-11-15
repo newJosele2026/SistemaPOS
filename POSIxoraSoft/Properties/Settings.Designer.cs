@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace WFSistemaPOS.Properties
+namespace POSIxoraSoft.Properties
 {
 
 

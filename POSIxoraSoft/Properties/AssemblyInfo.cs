@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("WFSistemaPOS")]
+[assembly: AssemblyTitle("POSIxoraSoft")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("WFSistemaPOS")]
+[assembly: AssemblyProduct("POSIxoraSoft")]
 [assembly: AssemblyCopyright("Copyright ©  2026")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("113f5c97-6646-404e-a1c4-bbf4fb6eff70")]
+[assembly: Guid("13b7afdc-b1d8-427e-8d39-55b368e0fe5e")]
 
 // Version information for an assembly consists of the following four values:
 //
